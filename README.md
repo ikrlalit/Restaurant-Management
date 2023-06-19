@@ -21,7 +21,7 @@ npm run build
 npm run lint
 ```
 ### Install and Run Json server
-To see the application into action you also need to install and run JSON server.
+To see this application into action on your local system you first you need to install and run JSON server.
 #### Install Json server with:
 ```
 npm install -g json-server
