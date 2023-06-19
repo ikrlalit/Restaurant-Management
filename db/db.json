@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "lalit",
+      "email": "lk@test.com",
+      "password": "LLmc@1265",
+      "id": 1
+    },
+    {
+      "name": "Sumit",
+      "email": "sk@test.com",
+      "password": "Ascjkd@436",
+      "id": 2
+    },
+    {
+      "name": "Rahul",
+      "email": "rs@test.com",
+      "password": "Mdhfj@3894",
+      "id": 3
+    },
+    {
+      "name": "Anshu",
+      "email": "As@test.ac.in",
+      "password": "DGts@78",
+      "id": 4
+    },
+    {
+      "name": "Dev",
+      "email": "d@test.com",
+      "password": "Adegn@1234",
+      "id": 5
+    },
+    {
+      "name": "Rithm",
+      "email": "rm@t.com`",
+      "password": "dfklakdfdi",
+      "id": 6
+    },
+    {
+      "name": "ankit",
+      "email": "ak@t.com",
+      "password": "Abc@123",
+      "id": 7
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Pizza Hut",
+      "address": "Lulu Mall, Lucknow",
+      "contact": 952254,
+      "id": 2
+    },
+    {
+      "name": "Domino's",
+      "address": "Lajpat nagar New Delhi",
+      "contact": 2556445,
+      "id": 3
+    },
+    {
+      "name": "Rudra Dining",
+      "address": "Kamta Lucknow",
+      "contact": 123412,
+      "id": 4
+    },
+    {
+      "name": "Siddhi Foods",
+      "address": "Chinhat, Lucknow",
+      "contact": 332456,
+      "id": 5
+    },
+    {
+      "name": "Cafe Coffee Day",
+      "address": "Hazratganj, Lucknow",
+      "contact": 442665,
+      "id": 6
+    },
+    {
+      "name": "Taco Bell",
+      "address": "Kamegoda, Benguluru",
+      "contact": 652215,
+      "id": 8
+    }
+  ]
+}
